@@ -12,3 +12,11 @@ Yolov3 execution Frames per second is far better than RCNN.
 Yolov3 seems to detect small object precisely than larger object.
 RCNN works great on high resolution pictures and is more accurate.
 For real time usage i think Yolov3 is better to implement in current scenario.
+
+Download the necessary weights and files.
+
+YOLOv3
+
+wget https://pjreddie.com/media/files/yolov3.weights
+
+wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true -O ./yolov3.cfg

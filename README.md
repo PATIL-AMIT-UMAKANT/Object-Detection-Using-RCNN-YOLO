@@ -10,6 +10,7 @@ RCNN is a Region based detectors like its extarcts only imp regions.
 Yolov3 seems to have more accuracy than Rcnn.
 Yolov3 execution Frames per second is far better than RCNN.
 Yolov3 seems to detect small object precisely than larger object.
+yolov3 takes less time compair
 RCNN works great on high resolution pictures and is more accurate.
 For real time usage i think Yolov3 is better to implement in current scenario.
 

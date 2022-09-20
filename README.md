@@ -5,7 +5,7 @@ This project is used for object detection using Yolov3 & RCNN.
 YOLO and RCNN are two different types of object detectors.
 
 Yolo is a Single Shot detectors like the name suggest You Looks Only Onces.
-RCNN is a Region based detectors.
+RCNN is a Region based detectors like its extarcts only imp regions.
 
 Yolov3 seems to have more accuracy than Rcnn.
 Yolov3 execution Frames per second is far better than RCNN.

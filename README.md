@@ -7,7 +7,7 @@ YOLO and RCNN are two different types of object detectors.
 Yolo is a Single Shot detectors like the name suggest You Looks Only Onces.
 RCNN is a Region based detectors like its extarcts only imp regions.
 
-Yolov3 seems to have more accuracy than Rcnn.
+Yolov3 seems to have more accuracy than RCNN.
 Yolov3 execution Frames per second is far better than RCNN.
 Yolov3 seems to detect small object precisely than larger object.
 yolov3 takes less time compair to RCNN
